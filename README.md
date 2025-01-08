@@ -2,6 +2,8 @@
 
 Learning the ropes with gitlab. 
 Let's see how it goes!
+git config --global core.editor "code --wait"
+ Use this line of code to ensure you never miss a commit!
 
 ## Getting started
 
