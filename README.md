@@ -1,6 +1,7 @@
 # Training shoes
 
-
+Learning the ropes with gitlab. 
+Let's see how it goes!
 
 ## Getting started
 
